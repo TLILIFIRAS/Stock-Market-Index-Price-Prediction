@@ -29,7 +29,7 @@ The project downloads all the necessary data using the yfinance package. This pa
 
 ## File Overview
 
-- `market_prediction.ipynb`: Jupyter notebook that contains all the code for this project.
+- `notebook.ipynb`: Jupyter notebook that contains all the code for this project.
 
 ## Usage
 
